@@ -1,4 +1,4 @@
-> **predict the price of diamonds** using Linear Regression, Ridge, Lasso, and ElasticNet techniques  
+**predict the price of diamonds** using Linear Regression, Ridge, Lasso, and ElasticNet techniques  
 
 *A data frame with 53940 rows and 10 variables:*
 1. price: price in US dollars ($326 -- 18,823$)

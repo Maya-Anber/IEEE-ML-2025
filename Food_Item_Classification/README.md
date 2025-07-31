@@ -29,4 +29,5 @@ Target variable:  Categorical with 3 classes
 
 # **Modeling & Evaluation**
   Multinomial Logistic Regression
+  
   One-vs-Rest Logistic Regression
